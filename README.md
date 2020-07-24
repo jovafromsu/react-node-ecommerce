@@ -2,3 +2,4 @@
 
 ## Udemy course pracitice
 
+## Thanks: https://github.com/kaloraat
